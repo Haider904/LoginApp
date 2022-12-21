@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463784936928",
+    "firebase_url": "https://fir-test-78841-default-rtdb.firebaseio.com",
+    "project_id": "fir-test-78841",
+    "storage_bucket": "fir-test-78841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463784936928:android:b69518854153dd4cda9785",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463784936928-s2ssp675bul3i9hfu2gd036sp6ofnnbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMmGzspOprYZlUj-jY0ilcR4ckPjI1p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463784936928-s2ssp675bul3i9hfu2gd036sp6ofnnbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
